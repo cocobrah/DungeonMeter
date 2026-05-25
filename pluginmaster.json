@@ -1,0 +1,16 @@
+[
+  {
+    "Author": "cocobrah",
+    "Name": "Dungeon Meter",
+    "Punchline": "Party damage meter for dungeons.",
+    "Description": "Shows per-player damage and healing stats for your dungeon party. Toggle with /dungeonmeter, /dmeter, or /dmet. Append 'reset' to clear.",
+    "InternalName": "DungeonMeter",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/cocobrah/dungeon-meter",
+    "Tags": ["combat", "dps", "meter", "overlay"],
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/cocobrah/dungeon-meter/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/cocobrah/dungeon-meter/releases/download/v1.0.0/latest.zip",
+    "DownloadCount": 0
+  }
+]
